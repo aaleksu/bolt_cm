@@ -1,7 +1,8 @@
 {
     "name" : "bolt/bolt",
-    "description" : "Sophisticated, lightweight & simple CMS",
+    "description" : "Fork of Sophisticated, lightweight & simple CMS",
     "homepage" : "http://bolt.cm",
+    "type" : "library",
     "keywords" : [
         "CMS",
         "Silex",
