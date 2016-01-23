@@ -72,7 +72,7 @@
         "sebastian/phpcpd" : "~2.0",
         "squizlabs/php_codesniffer" : "~2.0"
     },
-    "minimum-stability" : "master",
+    "minimum-stability" : "dev",
     "config" : {
         "preferred-install" : "dist"
     },
