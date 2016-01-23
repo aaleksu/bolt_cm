@@ -3,6 +3,7 @@
     "description" : "Fork of Sophisticated, lightweight & simple CMS",
     "homepage" : "http://bolt.cm",
     "type" : "library",
+    "version" : "2.2.6",
     "keywords" : [
         "CMS",
         "Silex",
