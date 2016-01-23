@@ -1,4 +1,4 @@
-Bolt
+Bolt (fork; composer wrapping for bolt cms source files)
 ====
 
 Sophisticated, lightweight & simple CMS. Homepage: [Bolt.cm](https://bolt.cm)
